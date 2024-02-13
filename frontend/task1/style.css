@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Recursive:wght@400;900&display=swap");
+
+body {
+  font: 16px;
+  margin: 24px;
+  padding: 16px;
+  font-family: "Recursive", sans-serif;
+}
+
+img {
+  border: 5px solid black;
+  border-radius: 5px;
+}
+
+.about {
+  color: #191919d7;
+  font-weight: 900;
+}
+
+.about a {
+  color: #000000d7;
+  text-decoration: underline;
+}
+
+.newsletter input::placeholder {
+  padding: 8px;
+  color: #191919d7;
+  font-weight: 900;
+}
+
+.subscribe {
+  font: 18px;
+  color: white;
+  background-color: black;
+  padding: 10px;
+  border: none;
+}
